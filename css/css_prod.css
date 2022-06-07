@@ -3,7 +3,11 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
-  
+}
+
+table{
+  border: 2px solid black;
+  border-spacing: 25px;
 }
 
 #produkt_beschreibung{
@@ -11,6 +15,7 @@ body {
 }
 #produkt_bild{
   width: 50%;
+  border-radius: px;
 }
 ul {
     list-style-type: none;
