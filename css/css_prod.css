@@ -1,0 +1,37 @@
+body {
+  background-image: url('../pics/prod_bg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  
+}
+
+#produkt_beschreibung{
+  width: 50%;
+}
+#produkt_bild{
+  width: 50%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+  #nav_btn{
+    background-color: green; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+  }
+
+  h1{
+      color: red;
+  }
