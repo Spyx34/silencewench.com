@@ -5,7 +5,7 @@ body {
   background-size: 100% 100%;
 }
 
-table{
+#preise_gutscheine{
   border: 2px solid black;
   border-spacing: 25px;
   font-size: 3rem;
